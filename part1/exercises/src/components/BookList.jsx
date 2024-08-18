@@ -6,7 +6,7 @@ export default function BookList() {
    let book3 = "https://m.media-amazon.com/images/I/81k8YGJINwL._SL1500_.jpg";
 
    return (
-      <div>
+      <div className= {classes.bookingGroup}>
          <h3>{pageTitle}</h3>
          <img src={book1} className = {classes.books} alt="cracking the coding interview" />
          <img src={book2} className = {classes.books}alt="state of fear" />
