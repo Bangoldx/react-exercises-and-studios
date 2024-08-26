@@ -1,0 +1,32 @@
+{"games":[
+    {
+        "name": "Gloomhaven",
+        "designer": "Issac Childres",
+        "photo": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__imagepagezoom/img/tzd7s5trxMU7W01HxXd4PPSwEfM=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic2437871.jpg",
+        "alt": "gloomhaven boardgame"
+    },
+    {
+        "name": "Alone",
+        "designer": "Andrea Crespi",
+        "photo": "https://cf.geekdo-images.com/o1bcRVsS2hQGCWLU7u2nBA__imagepagezoom/img/39HEHA6Pk6X-XZ5Y_SlTlaeCrLA=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3418138.png",
+        "alt": "alone boardgame"
+    },
+    {
+        "name": "Wonderlands War",
+        "designer": "Tim Eisner",
+        "photo":"https://cf.geekdo-images.com/bUbrvlY6Dw1cdb-sNrnkew__imagepagezoom/img/k2eIBzvc1hdbhB2ythBFSaKJKJ8=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5188761.jpg",
+        "alt": "ww boardgame"
+    },
+    {
+        "name": "Mice and Mystics",
+        "designer": "Jerry Hawthorne",
+        "photo": "https://cf.geekdo-images.com/pZFrbWXBzrkxqOotg05D9Q__imagepagezoom/img/alHiK1TwbhKVS34-Gw_dnSUdF2I=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic1312072.jpg",
+        "alt": "mice and mystics boardgame"
+    },
+    {
+        "name": "Bloodborne",
+        "designer": "Eric M. Lang",
+        "photo":"https://cf.geekdo-images.com/clKFvn2bUUPbY62eSmc-ig__imagepagezoom/img/xFbtIeSqhnwr4i0ySNOHw8TT42g=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic4757839.png",
+        "alt": "bloodborne boardgame"
+    }
+]}
